@@ -2,6 +2,7 @@
 
 #Step 1: Download and enter the Waveshare-DSI-LCD driver folder
 git clone https://github.com/waveshare/Waveshare-DSI-LCD
+
 cd Waveshare-DSI-LCD
 
 #Step 2: Enter uname -a in the terminal to view the kernel version and cd to the corresponding file directory
