@@ -6,12 +6,16 @@ git clone https://github.com/waveshare/Waveshare-DSI-LCD
 cd Waveshare-DSI-LCD
 
 #Step 2: Enter uname -a in the terminal to view the kernel version and cd to the corresponding file directory
+
 #5.10.103 then run the following command
+
 cd 5.10.103
 
 
 #Step 3: Please check the bits of your system, enter the 32 directory for 32-bit systems, and enter the 64 directory for 64-bit systems
+
 cd 32
+
 #cd 64
 
 #Step 4: Enter your corresponding model command to install the driver, pay attention to the selection of the I2C DIP switch
