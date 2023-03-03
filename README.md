@@ -19,16 +19,21 @@ cd 32
 #cd 64
 
 #Step 4: Enter your corresponding model command to install the driver, pay attention to the selection of the I2C DIP switch
-#2.8inch DSI LCD 480×640：
-#sudo bash ./WS_xinchDSI_MAIN.sh 2_8INCH I2C0
-#4inch DSI LCD 480×800：
-#sudo bash ./WS_xinchDSI_MAIN.sh 4INCH I2C0
-#7inch DSI LCD (C) 1024×600：
+
+#2.8inch DSI LCD 480×640:
+sudo bash ./WS_xinchDSI_MAIN.sh 2_8INCH I2C0
+
+#4inch DSI LCD 480×800:
+sudo bash ./WS_xinchDSI_MAIN.sh 4INCH I2C0
+
+#7inch DSI LCD (C) 1024×600:
 sudo bash ./WS_xinchDSI_MAIN.sh 7INCH I2C0
-#7.9ich DSI LCD 400×1280：
-#sudo bash ./WS_xinchDSI_MAIN.sh 7_9_INCH I2C0
-#11.9inch DSI LCD 320×1480：
-#sudo bash ./WS_xinchDSI_MAIN.sh 11_9_INCH I2C0
+
+#7.9ich DSI LCD 400×1280:
+sudo bash ./WS_xinchDSI_MAIN.sh 7_9_INCH I2C0
+
+#11.9inch DSI LCD 320×1480:
+sudo bash ./WS_xinchDSI_MAIN.sh 11_9_INCH I2C0
 
 
 #Step 5: Wait for a few seconds, when the driver installation is complete and no error is prompted, restart and load the DSI driver and it can be used normally
