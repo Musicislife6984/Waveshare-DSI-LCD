@@ -1,6 +1,7 @@
 # Waveshare-DSI-LCD
 
 #Step 1: Download and enter the Waveshare-DSI-LCD driver folder
+
 git clone https://github.com/waveshare/Waveshare-DSI-LCD
 
 cd Waveshare-DSI-LCD
@@ -28,10 +29,14 @@ sudo bash ./WS_xinchDSI_MAIN.sh 2_8INCH I2C0
 
 sudo bash ./WS_xinchDSI_MAIN.sh 4INCH I2C0
 
-#7inch DSI LCD (C) 1024×600:
+#7inch DSI LCD (C) 1024×600: 
 
 sudo bash ./WS_xinchDSI_MAIN.sh 7INCH I2C0
 
+  Note to Use I2C0 you must solder two resistors in the figure below with 0 ohm resistance
+  
+  ![Solder Jumpers](https://www.waveshare.com/wiki/File:7inch_DSI_LCD_C_FAQ_1.png)
+  
 #7.9ich DSI LCD 400×1280:
 
 sudo bash ./WS_xinchDSI_MAIN.sh 7_9_INCH I2C0
