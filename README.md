@@ -33,9 +33,9 @@ sudo bash ./WS_xinchDSI_MAIN.sh 4INCH I2C0
 
 sudo bash ./WS_xinchDSI_MAIN.sh 7INCH I2C0
 
-  Note to Use I2C0 you must solder two resistors in the figure below with 0 ohm resistance
+  ## Note to Use I2C0 you must solder two resistors in the figure below with 0 ohm resistance
   
-  ![Solder Jumpers](https://www.waveshare.com/wiki/File:7inch_DSI_LCD_C_FAQ_1.png)
+  ![Solder Jumpers](https://github.com/Musicislife6984/Waveshare-DSI-LCD/blob/main/7inch_DSI_LCD_C_FAQ_1.png)
   
 #7.9ich DSI LCD 400×1280:
 
