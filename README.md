@@ -23,7 +23,6 @@ Step 3: Please check the bits of your system, enter the 32 directory for 32-bit 
 ```html
 cd 32
 ```
-#cd 64
 
 Step 4: Enter your corresponding model command to install the driver, pay attention to the selection of the I2C DIP switch
 
