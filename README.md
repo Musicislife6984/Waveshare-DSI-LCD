@@ -10,7 +10,7 @@ git clone https://github.com/waveshare/Waveshare-DSI-LCD
 cd Waveshare-DSI-LCD
 ```
 
-Step 2: Enter uname -a in the terminal to view the kernel version and cd to the corresponding file directory
+Step 2: Enter ***uname -a*** in the terminal to view the kernel version and cd to the corresponding file directory
 
 #5.10.103 then run the following command
 
