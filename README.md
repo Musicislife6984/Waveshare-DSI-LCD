@@ -3,7 +3,7 @@
 Step 1: Download and enter the Waveshare-DSI-LCD driver folder
 
 ```html
-git clonehttps://github.com/Musicislife6984/Waveshare-DSI-LCD.git
+git clone https://github.com/Musicislife6984/Waveshare-DSI-LCD.git
 ```
 
 ```html
